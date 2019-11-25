@@ -16,11 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-<<<<<<< HEAD
-          Learn Reactccccccc123123
-=======
-          Learn Reactsyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
->>>>>>> alumnireactjs-copy
+          Learn @@@@
         </a>
       </header>
     </div>
